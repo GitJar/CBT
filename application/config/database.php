@@ -1,9 +1,9 @@
 <?php if (!defined('BASEPATH')) exit('No direct script access allowed');
 $active_group                 = 'default';
 $active_record                 = TRUE;
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = 'rahasia';
+$db['default']['hostname'] = 'mtsnpur1_cbt';
+$db['default']['username'] = 'cbt_mts3';
+$db['default']['password'] = 'cbt_mts3';
 $db['default']['database'] = 'db_cbt';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
